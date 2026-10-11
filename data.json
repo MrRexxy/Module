@@ -1,0 +1,120 @@
+{
+  "modul": [
+    {
+      "name": "LSPosed",
+      "cat": "Framework",
+      "ver": "v1.9.2",
+      "android": "8.1+",
+      "desc": "Framework hooking modern berbasis Zygisk untuk menjalankan modul Xposed.",
+      "size": "3.1 MB",
+      "log": "Perbaikan stabilitas dan dukungan Android terbaru.",
+      "file": ""
+    },
+    {
+      "name": "Shamiko",
+      "cat": "Root",
+      "ver": "v1.2.1",
+      "android": "8.0+",
+      "desc": "Menyembunyikan status root dari aplikasi tertentu lewat Zygisk.",
+      "size": "0.4 MB",
+      "log": "Contoh catatan: perbaikan deteksi dan pengoptimalan.",
+      "file": ""
+    },
+    {
+      "name": "Busybox NDK",
+      "cat": "Sistem",
+      "ver": "v1.36",
+      "android": "5.0+",
+      "desc": "Paket perintah Unix lengkap untuk terminal dan skrip di Android.",
+      "size": "2.0 MB",
+      "log": "Contoh catatan: pembaruan binary ke versi terbaru.",
+      "file": ""
+    },
+    {
+      "name": "ACC",
+      "cat": "Baterai",
+      "ver": "v2024.1",
+      "android": "5.0+",
+      "desc": "Mengatur batas pengisian baterai agar umur baterai lebih panjang.",
+      "size": "0.8 MB",
+      "log": "Contoh catatan: profil pengisian baru dan perbaikan bug.",
+      "file": ""
+    },
+    {
+      "name": "Props Config",
+      "cat": "Sistem",
+      "ver": "v6.1",
+      "android": "7.0+",
+      "desc": "Mengubah properti sistem perangkat dengan menu interaktif.",
+      "size": "0.3 MB",
+      "log": "Contoh catatan: daftar perangkat diperbarui.",
+      "file": ""
+    },
+    {
+      "name": "Audio Tweaks",
+      "cat": "Audio",
+      "ver": "v3.0",
+      "android": "9.0+",
+      "desc": "Penyetelan keluaran audio dan konfigurasi mixer untuk suara lebih jernih.",
+      "size": "1.5 MB",
+      "log": "Contoh catatan: preset audio baru.",
+      "file": ""
+    },
+    {
+      "name": "Kernel Tuner",
+      "cat": "Performa",
+      "ver": "v2.4",
+      "android": "10+",
+      "desc": "Profil performa dan hemat daya melalui pengaturan governor CPU.",
+      "size": "0.6 MB",
+      "log": "Contoh catatan: profil hemat daya ditambahkan.",
+      "file": ""
+    }
+  ],
+  "plugin": [
+    {
+      "name": "Tema Gelap AX",
+      "cat": "Tampilan",
+      "ver": "v1.0",
+      "android": "8.0+",
+      "desc": "Contoh plugin: tema gelap untuk antarmuka AX Manager.",
+      "axmin": "v1.0+",
+      "size": "0.5 MB",
+      "log": "Contoh catatan: rilis pertama.",
+      "file": ""
+    },
+    {
+      "name": "Cadangan Otomatis",
+      "cat": "Utilitas",
+      "ver": "v1.2",
+      "android": "8.0+",
+      "desc": "Contoh plugin: cadangkan daftar aplikasi dan pengaturan secara berkala.",
+      "axmin": "v1.1+",
+      "size": "1.2 MB",
+      "log": "Menambah jadwal cadangan harian.",
+      "file": ""
+    },
+    {
+      "name": "Pemantau Sistem",
+      "cat": "Utilitas",
+      "ver": "v0.9",
+      "android": "9.0+",
+      "desc": "Contoh plugin: tampilkan penggunaan CPU, RAM, dan suhu perangkat.",
+      "axmin": "v1.2+",
+      "size": "0.9 MB",
+      "log": "Contoh catatan: grafik suhu ditambahkan.",
+      "file": ""
+    },
+    {
+      "name": "Pembersih Cache",
+      "cat": "Perawatan",
+      "ver": "v2.1",
+      "android": "7.0+",
+      "desc": "Contoh plugin: bersihkan cache aplikasi dengan satu ketukan.",
+      "axmin": "v1.0+",
+      "size": "0.3 MB",
+      "log": "Contoh catatan: pembersihan lebih cepat.",
+      "file": ""
+    }
+  ]
+}
